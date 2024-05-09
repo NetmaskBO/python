@@ -27,5 +27,9 @@ CANTIDAD DE SEMAFOROS POR NIVEL: 4
 
 CANTIDADDE HORAS INVERTIDAS: 4 horas
 
+-------------------------------------
+ARCHIVO
+-------------------------------------
+terminal_game_v1.py
 
 ** Tuve dificultades a la hora de entender el bucle While.
